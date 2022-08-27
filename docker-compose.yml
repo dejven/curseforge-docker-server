@@ -10,6 +10,6 @@ services:
     environment:
       EULA: "true"
       TYPE: CURSEFORGE
-      CF_SERVER_MOD: /modpacks/SkyFactory-4_Server_4.2.2.zip
+      CF_SERVER_MOD: /modpacks/All+the+Mods+7-0.4.29.zip
     ports:
       - 25565:25565
